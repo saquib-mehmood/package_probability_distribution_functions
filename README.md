@@ -7,6 +7,8 @@ Calculates and visualizes Gaussian and Binomial Probability Distribution Functio
 **Installation**
 `pip install pyproblib`
 
+`python3 -m pip install pyproblib`
+
 **Prerequisites:**
 Python version 3.7 or higher
 
